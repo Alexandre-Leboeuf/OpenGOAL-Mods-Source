@@ -14,11 +14,11 @@
       "thumbnailArtUrl": "https://raw.githubusercontent.com/Alexandre-Leboeuf/Jak-3-Better-Forms-Mod/master/thumbnail.png",
       "versions": [
         {
-          "version": "1.0.0",
+          "version": "1.1.0",
           "publishedDate": "2026-04-27T00:00:00Z",
           "supportedGames": ["jak3"],
           "assets": {
-            "windows": "https://github.com/Alexandre-Leboeuf/Jak-3-Better-Forms-Mod/releases/download/v1.0/jak3-better-forms-v1.0.zip",
+            "windows": "https://github.com/Alexandre-Leboeuf/Jak-3-Better-Forms-Mod/releases/download/v1.1/windows-v1.1.zip",
             "linux": null,
             "macos": null
           }
