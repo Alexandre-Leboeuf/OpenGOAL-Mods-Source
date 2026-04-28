@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.0.0",
   "sourceName": "alexandre-leboeuf-mods",
-  "lastUpdated": "2026-04-27T00:00:00Z",
+  "lastUpdated": "2026-04-28T00:00:00Z",
   "mods": {
     "jak3-better-forms": {
       "displayName": "Jak 3 Better Forms Mod",
@@ -13,6 +13,16 @@
       "coverArtUrl": "https://raw.githubusercontent.com/Alexandre-Leboeuf/Jak-3-Better-Forms-Mod/master/cover.png",
       "thumbnailArtUrl": "https://raw.githubusercontent.com/Alexandre-Leboeuf/Jak-3-Better-Forms-Mod/master/thumbnail.png",
       "versions": [
+        {
+          "version": "1.2.0",
+          "publishedDate": "2026-04-28T00:00:00Z",
+          "supportedGames": ["jak3"],
+          "assets": {
+            "windows": "https://github.com/Alexandre-Leboeuf/Jak-3-Better-Forms-Mod/releases/download/v1.2/jak3-better-forms-v1.2.zip",
+            "linux": null,
+            "macos": null
+          }
+        },
         {
           "version": "1.1.0",
           "publishedDate": "2026-04-27T00:00:00Z",
